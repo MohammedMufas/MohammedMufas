@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**MohammedMufas/MohammedMufas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on: High school comp.science
+- 🌱 I’m currently learning: python,java and HTML
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about: I am very smart. And very Hard worker.
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
